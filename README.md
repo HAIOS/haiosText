@@ -1,7 +1,7 @@
 # haiosText
 Text processing 
-Pages in category "String similarity measures"
 
+##String similarity measures
 1. String metric
 2. Damerau–Levenshtein distance
 3. Edit distance
