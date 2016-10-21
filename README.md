@@ -1,14 +1,14 @@
 # haiosText
-Text processing 
+Text processing
 
 ##String similarity measures
 1. String metric
 2. Damerau–Levenshtein distance
-3. Edit distance
+3. <del>Edit distance</del>
 4. Euclidean distance
 5. Hamming distance
 6. Inversion (discrete mathematics)
-7. Jaccard index
+7. <del>Jaccard index</del>
 8. Jaro–Winkler distance
 9. Lee distance
 10. Levenshtein distance
